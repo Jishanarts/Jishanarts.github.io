@@ -13,7 +13,7 @@ export default function Home() {
       <section className="h-[60vh] bg-[url('/gallery-hero.jpg')] bg-cover bg-center flex items-center justify-center">
         <div className="bg-white bg-opacity-70 p-6 rounded-lg">
           <h2 className="text-4xl font-semibold">Discover Beautiful Art</h2>
-          <p className="text-lg mt-2">A curated collection of stunning artwork</p>
+          <p className="text-lg mt-2">A curated collection of artwork</p>
         </div>
       </section>
 
