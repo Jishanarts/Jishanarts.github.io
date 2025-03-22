@@ -101,7 +101,7 @@ export default function Home() {
     //   <>Jishan Arts</>
     // </div>
     <>
-    Jishan arts and studio help
+    Jishan arts and studio help check for it 
     </>
   );
 }
